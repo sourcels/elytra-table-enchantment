@@ -1,0 +1,42 @@
+{
+	"schemaVersion": 1,
+	"id": "elytra-table-enchantment",
+	"version": "${version}+fabric+1.21.11",
+    "environment": "*",
+    "depends": {
+      "fabricloader": ">=0.18.4",
+      "minecraft": "~1.21.11",
+      "java": ">=21",
+      "fabric-api": "*"
+    },
+	"name": "Elytra Table Enchantment",
+	"description": "This mod allows Elytra to be enchanted using the Enchanting Table and the Anvil, and makes Elytra enchantments fully functional.",
+	"authors": [
+		"shimaper"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/elytra-table-enchantment",
+		"sources": "https://github.com/sourcels/elytra-table-enchantment",
+        "issues": "https://github.com/sourcels/elytra-table-enchantment/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/elytra-table-enchantment/icon.png",
+	"entrypoints": {
+		"main": [
+			"com.shimaper.elytratableenchantment.ElytraTableEnchantment"
+		]
+	},
+	"mixins": [
+		"elytra-table-enchantment.mixins.json"
+	],
+    "custom": {
+      "modmenu": {
+        "config_screen": "com.shimaper.elytratableenchantment.config.ModMenuIntegration",
+        "links": {
+          "modmenu.discord": "",
+          "modmenu.donate": ""
+        },
+        "update_checker": true
+      }
+    }
+}
