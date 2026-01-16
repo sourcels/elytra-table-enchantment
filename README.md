@@ -6,10 +6,37 @@
 ![Static Badge](https://img.shields.io/badge/License-Apache_2.0-blue)
 
 
-This mod allows Elytra to be enchanted using the Enchanting Table and the Anvil, and makes Elytra enchantments fully functional.
+The mod allows elytra to be enchanted at the enchanting table as well as on an anvil. Most importantly, the enchantments work in the game as intended.
+
+YES - Thorns and Protection enchants are working!
+
+![Example](https://cdn.modrinth.com/data/cached_images/cdf235369a9b1f7375602422ff3acd44f71ef750.png)
+
+## FAQ
+
+> Q: Why do I need this mod?
+> 
+> A: _If Mending and Unbreaking on elytra aren’t enough for you, this mod allows you to turn elytra into a true part of an armor set and expands the possibilities of elytra as wearable armor._
+> 
+> Q: Does this mod affect gameplay?
+> 
+> A: Yes, it slightly changes how elytra work as armor, and the changes are in the player’s favor.
+> 
+> Q: How heavy is this mod on performance?
+> 
+> A: _It’s extremely lightweight and has no impact on game performance. It activates only by game launch._
+> 
+> Q: How does it work, in simple terms?
+> 
+> A: When the game starts, the mod intercepts item registration specifically elytra and adds **enchantability** to their properties.
+
+## Dependencies
+
+- [Fabric Loader](https://fabricmc.net/use/installer/) 0.18.4 or higher
+- [Fabric API Mod](https://modrinth.com/mod/fabric-api) 0.140.2 or higher
+
+---
 
 ## License
 
 This project is licensed under the Apache 2.0 License.
-
----
