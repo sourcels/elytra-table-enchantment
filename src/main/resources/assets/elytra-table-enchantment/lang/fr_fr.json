@@ -1,0 +1,9 @@
+{
+  "elytra-table-enchantment.config.title": "Configuration d'enchantement des élytres",
+  "elytra-table-enchantment.config.value": "Valeur d'enchantabilité : %s",
+  "elytra-table-enchantment.config.restart_warning": "Les modifications nécessitent un redémarrage du jeu !",
+
+  "modmenu.nameTranslation.elytra-table-enchantment": "Elytra Table Enchantment",
+  "modmenu.descriptionTranslation.elytra-table-enchantment": "Ce mod permet d'enchanter les élytres via la table d'enchantement et l'enclume, et rend les enchantements d'élytres pleinement fonctionnels.",
+  "modmenu.summaryTranslation.elytra-table-enchantment": "Un mod qui permet d'enchanter les élytres comme une armure."
+}

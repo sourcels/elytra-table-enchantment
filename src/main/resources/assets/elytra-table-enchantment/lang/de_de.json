@@ -1,0 +1,9 @@
+{
+  "elytra-table-enchantment.config.title": "Elytren-Verzauberung Konfig",
+  "elytra-table-enchantment.config.value": "Verzauberbarkeit-Wert: %s",
+  "elytra-table-enchantment.config.restart_warning": "Änderungen erfordern einen Neustart des Spiels!",
+
+  "modmenu.nameTranslation.elytra-table-enchantment": "Elytra Table Enchantment",
+  "modmenu.descriptionTranslation.elytra-table-enchantment": "Diese Mod ermöglicht es, Elytren am Zaubertisch und Amboss zu verzaubern, und macht diese Verzauberungen voll funktionsfähig.",
+  "modmenu.summaryTranslation.elytra-table-enchantment": "Eine Mod, die das Verzaubern von Elytren wie Rüstung ermöglicht."
+}

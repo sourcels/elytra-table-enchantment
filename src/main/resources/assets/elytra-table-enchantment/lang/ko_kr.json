@@ -1,0 +1,9 @@
+{
+  "elytra-table-enchantment.config.title": "겉날개 마법 부여 설정",
+  "elytra-table-enchantment.config.value": "마법 부여 가능 수치: %s",
+  "elytra-table-enchantment.config.restart_warning": "변경 사항을 적용하려면 게임을 재시작해야 합니다!",
+
+  "modmenu.nameTranslation.elytra-table-enchantment": "Elytra Table Enchantment",
+  "modmenu.descriptionTranslation.elytra-table-enchantment": "이 모드는 마법 부여대와 모루를 사용하여 겉날개에 마법을 부여할 수 있게 하며, 해당 마법 부여가 정상적으로 작동하도록 합니다.",
+  "modmenu.summaryTranslation.elytra-table-enchantment": "겉날개에 갑옷처럼 마법을 부여할 수 있게 해주는 모드입니다."
+}

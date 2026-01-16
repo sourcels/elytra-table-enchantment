@@ -1,0 +1,9 @@
+{
+  "elytra-table-enchantment.config.title": "鞘翅附魔配置",
+  "elytra-table-enchantment.config.value": "附魔力数值: %s",
+  "elytra-table-enchantment.config.restart_warning": "更改需要重启游戏！",
+
+  "modmenu.nameTranslation.elytra-table-enchantment": "Elytra Table Enchantment",
+  "modmenu.descriptionTranslation.elytra-table-enchantment": "此模组允许通过附魔台和铁砧为鞘翅附魔，并使其附魔效果完全生效。",
+  "modmenu.summaryTranslation.elytra-table-enchantment": "一个允许像附魔盔甲一样附魔鞘翅的模组。"
+}

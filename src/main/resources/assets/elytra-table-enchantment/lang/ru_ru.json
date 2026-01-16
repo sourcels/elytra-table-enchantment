@@ -1,0 +1,9 @@
+{
+  "elytra-table-enchantment.config.title": "Настройка чар для элитр",
+  "elytra-table-enchantment.config.value": "Множитель зачаровывания: %s",
+  "elytra-table-enchantment.config.restart_warning": "Изменения требуют перезапуска игры!",
+
+  "modmenu.nameTranslation.elytra-table-enchantment": "Elytra Table Enchantment",
+  "modmenu.descriptionTranslation.elytra-table-enchantment": "Этот мод позволяет зачаровывать элитры на столе зачарования и наковальне, а также делает эти чары полностью рабочими.",
+  "modmenu.summaryTranslation.elytra-table-enchantment": "Мод, позволяющий зачаровывать элитры подобно броне."
+}

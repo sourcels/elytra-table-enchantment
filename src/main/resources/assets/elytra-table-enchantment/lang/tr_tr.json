@@ -1,0 +1,9 @@
+{
+  "elytra-table-enchantment.config.title": "Elytra Büyüleme Yapılandırması",
+  "elytra-table-enchantment.config.value": "Büyülenebilirlik Değeri: %s",
+  "elytra-table-enchantment.config.restart_warning": "Değişiklikler oyunun yeniden başlatılmasını gerektirir!",
+
+  "modmenu.nameTranslation.elytra-table-enchantment": "Elytra Table Enchantment",
+  "modmenu.descriptionTranslation.elytra-table-enchantment": "bu mod, Elytra'nın Büyü Masası ve Örs kullanılarak büyülenmesini sağlar ve bu büyülerin tam işlevsel olmasını sağlar.",
+  "modmenu.summaryTranslation.elytra-table-enchantment": "Elytra'yı zırh gibi büyülemenize olanak tanıyan bir mod."
+}

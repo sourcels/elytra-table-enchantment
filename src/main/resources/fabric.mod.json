@@ -19,12 +19,15 @@
 		"sources": "https://github.com/sourcels/elytra-table-enchantment",
         "issues": "https://github.com/sourcels/elytra-table-enchantment/issues"
 	},
-	"license": "MIT",
+	"license": "Apache 2.0",
 	"icon": "assets/elytra-table-enchantment/icon.png",
 	"entrypoints": {
 		"main": [
 			"com.shimaper.elytratableenchantment.ElytraTableEnchantment"
-		]
+		],
+        "modmenu": [
+            "com.shimaper.elytratableenchantment.ModMenuIntegration"
+        ]
 	},
 	"mixins": [
 		"elytra-table-enchantment.mixins.json"

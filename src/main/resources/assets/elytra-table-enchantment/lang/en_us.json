@@ -1,0 +1,9 @@
+{
+  "elytra-table-enchantment.config.title": "Elytra Table Enchantment Config",
+  "elytra-table-enchantment.config.value": "Enchantability Value: %s",
+  "elytra-table-enchantment.config.restart_warning": "Changes require a game restart!",
+
+  "modmenu.nameTranslation.elytra-table-enchantment": "Elytra Table Enchantment",
+  "modmenu.descriptionTranslation.elytra-table-enchantment": "This mod allows Elytra to be enchanted using the Enchanting Table and the Anvil, and makes Elytra enchantments fully functional.",
+  "modmenu.summaryTranslation.elytra-table-enchantment": "A mod that allows enchanting Elytra like armor."
+}

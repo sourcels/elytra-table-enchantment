@@ -1,0 +1,9 @@
+{
+  "elytra-table-enchantment.config.title": "Налаштування чар для елітрів",
+  "elytra-table-enchantment.config.value": "Рівень зачаровуваності: %s",
+  "elytra-table-enchantment.config.restart_warning": "Зміни потребують перезапуску гри!",
+
+  "modmenu.nameTranslation.elytra-table-enchantment": "Elytra Table Enchantment",
+  "modmenu.descriptionTranslation.elytra-table-enchantment": "Цей мод дозволяє зачаровувати елітри на столі зачарування та ковадлі, а також робить ці чари повністю робочими.",
+  "modmenu.summaryTranslation.elytra-table-enchantment": "Мод, що дозволяє зачаровувати елітри як броню."
+}

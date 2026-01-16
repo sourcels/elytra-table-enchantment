@@ -1,0 +1,9 @@
+{
+  "elytra-table-enchantment.config.title": "Konfiguracja zaklinania elytry",
+  "elytra-table-enchantment.config.value": "Wartość zaklinania: %s",
+  "elytra-table-enchantment.config.restart_warning": "Zmiany wymagają ponownego uruchomienia gry!",
+
+  "modmenu.nameTranslation.elytra-table-enchantment": "Elytra Table Enchantment",
+  "modmenu.descriptionTranslation.elytra-table-enchantment": "Ten mod pozwala na zaklinanie elytry przy użyciu stołu do zaklęć oraz kowadła, sprawiając, że zaklęcia te stają się w pełni funkcjonalne.",
+  "modmenu.summaryTranslation.elytra-table-enchantment": "Mod pozwalający zaklinać elytry tak jak zbroje."
+}

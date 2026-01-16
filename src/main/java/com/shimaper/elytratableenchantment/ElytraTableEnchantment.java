@@ -10,6 +10,6 @@ public class ElytraTableEnchantment implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        enchantabilityValue = 10;
+        ElytraTableEnchantmentConfig.load();
     }
 }

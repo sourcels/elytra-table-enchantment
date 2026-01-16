@@ -1,0 +1,9 @@
+{
+  "elytra-table-enchantment.config.title": "Configurazione Incantesimi Aliante",
+  "elytra-table-enchantment.config.value": "Valore incantabilità: %s",
+  "elytra-table-enchantment.config.restart_warning": "Le modifiche richiedono il riavvio del gioco!",
+
+  "modmenu.nameTranslation.elytra-table-enchantment": "Elytra Table Enchantment",
+  "modmenu.descriptionTranslation.elytra-table-enchantment": "Questa mod permette di incantare le elitre usando il tavolo per incantesimi e l'incudine, rendendo gli incantesimi pienamente funzionali.",
+  "modmenu.summaryTranslation.elytra-table-enchantment": "Una mod che permette di incantare le elitre come se fossero armature."
+}
