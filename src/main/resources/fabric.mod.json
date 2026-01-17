@@ -1,12 +1,12 @@
 {
 	"schemaVersion": 1,
 	"id": "elytra-table-enchantment",
-	"version": "${version}+fabric+1.21.11",
+	"version": "${version}+fabric+26.1-snapshot-3",
     "environment": "*",
     "depends": {
       "fabricloader": ">=0.18.4",
-      "minecraft": "~1.21.11",
-      "java": ">=21",
+      "minecraft": "~26.1-",
+      "java": ">=25",
       "fabric-api": "*"
     },
 	"name": "Elytra Table Enchantment",

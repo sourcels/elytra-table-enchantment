@@ -2,11 +2,14 @@
   "required": true,
   "minVersion": "0.8",
   "package": "com.shimaper.elytratableenchantment.mixin",
-  "compatibilityLevel": "JAVA_21",
+  "compatibilityLevel": "JAVA_25",
   "mixins": [
     "ElytraMixin"
   ],
   "injectors": {
     "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
   }
 }
